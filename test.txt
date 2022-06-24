@@ -1,1 +1,2 @@
 Shaan Mistry is on branch 'b1'
+Shaan Mistry was on branch 'b1'
